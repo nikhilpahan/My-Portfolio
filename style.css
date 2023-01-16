@@ -160,6 +160,14 @@ nav {
     padding: 0 16px;
 }
 
+
+
+.about-me__link:hover {
+    color: #8F6CCB;
+}
+
+
+
 .about-me__img--container {
     flex: 1;
     display: flex;
