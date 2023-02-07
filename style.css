@@ -335,6 +335,18 @@ footer {
     background-color: #242424;
 }
 
+.footer__logo {
+    margin-bottom: 20px;
+}
+
+.footer__social--list {
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 28px;
+}
+
 .footer__row {
     display: flex;
     flex-direction: column;
