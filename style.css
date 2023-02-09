@@ -80,6 +80,7 @@ a {
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
+    padding: 0 12px;
 }
 
 .text--purple {
@@ -442,4 +443,16 @@ footer {
     .language {
         width: calc(100%/3);
     }
+
+
+    .project__description--para {
+        font-size: 14px;
+    }
+
+    .project__description {
+        left: 30px;
+        padding: 30px;
+    }
 }
+
+
