@@ -216,7 +216,9 @@ nav {
     padding: 0 16px;
 }
 
-
+@keyframes fade-up {
+    
+}
 
 .about-me__link:hover {
     color: #8F6CCB;
