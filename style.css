@@ -216,7 +216,16 @@ nav {
     padding: 0 16px;
 }
 
-
+@keyframes fade-up {
+    0% {
+        opacity: 0;
+        transform: translateY(41px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
 .about-me__link:hover {
     color: #8F6CCB;
